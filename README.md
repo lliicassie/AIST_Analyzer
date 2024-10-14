@@ -15,6 +15,14 @@ The file output will be hierarchical annotation files that represent how dancers
 The GUI interface will display meaningful and interesting visualizations during analysis.
 
 **UPDATE**
-The preliminary framework of the project has been uploaded. Including the interface between C++ and Python， the GUI module, and the calculation scripts.
+
+
+The preliminary framework of the project has been uploaded. Including the interface between C++ and Python, the GUI module, and the calculation scripts.
+
+
+**NEED HELP**
+
+
+Any issues and solutions will be greatly appreciated and welcome.
 
 
