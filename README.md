@@ -3,7 +3,7 @@
 A C++ GUI Implementation of interdisciplinary dance analysis.
 
 
-The calculation uses Python scripts.
+The calculation either uses Python script and C++.
 
 
 This is a tool that automatically annotates dance movements in the dance video with its linguistic features.
@@ -17,12 +17,10 @@ The GUI interface will display meaningful and interesting visualizations during 
 **UPDATE**
 
 
-The preliminary framework of the project has been uploaded. Including the interface between C++ and Python, the GUI module, and the a bit of calculation scripts.
+The preliminary framework of the project has been uploaded. Including the interface between C++ and Python, the GUI module, and a bit of python calculation scripts.
 
 
-**NEED HELP**
 
 
-Any issues and solutions will be greatly appreciated and welcome.
 
 
