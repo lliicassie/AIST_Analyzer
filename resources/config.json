@@ -1,0 +1,35 @@
+{
+    "data": {
+        "aist_motion_url": "https://drive.google.com/uc?id=1X54DfEG5TrAbFmGWO3Z6lnfoqXwodTFb&export=download",
+        "output_path": "./python_scripts/aist_output",
+        "motions_folder": "aist_plusplus_final/motions",
+        "keypoints3d_folder": "aist_plusplus_final/keypoints3d"
+    },
+    "analysis": {
+        "exclude_joints": [7, 8, 9, 10],
+        "velocity_calculation": {
+            "window_length": 11,
+            "polyorder": 2
+        },
+        "histogram": {
+            "bins": 50
+        }
+    },
+    "gui": {
+        "window_title": "AIST++ Motion Analyzer",
+        "window_size": {
+            "width": 800,
+            "height": 600
+        },
+        "chart": {
+            "title": "Vertical Velocity Over Time",
+            "x_label": "Frame",
+            "y_label": "Vertical Velocity"
+        }
+    },
+    "advanced": {
+        "debug_mode": false,
+        "log_level": "INFO",
+        "max_frames": 1000
+    }
+}

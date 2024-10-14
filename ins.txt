@@ -1,0 +1,7 @@
+# 激活虚拟环境
+conda activate aist_env
+
+export PYTHON_EXECUTABLE=$(which python)
+export PYTHON_INCLUDE_DIR=$(python -c "from distutils.sysconfig import get_python_inc; print(get_python_inc())")
+
+export PYTHON_LIBRARY=$(python -c "import sysconfig; print(sysconfig.get_config_var('LIBDIR') + '/lib' + sysconfig.get_config_var('LIBRARY'))")

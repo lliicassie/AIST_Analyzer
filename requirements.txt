@@ -1,0 +1,7 @@
+numpy
+pandas
+matplotlib
+scipy
+pybind11
+opencv-python
+gdown
