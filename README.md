@@ -1,6 +1,8 @@
-# AIST_Analyzer
+# UNDERGROUND_Analyzer
 
 A C++ GUI Implementation of interdisciplinary dance analysis.
+
+The name of it represents it initialy designed for a hiphop dances acedemic research project. 
 
 This tool is built to benifit users not familiar with code interface, including researchers in multiple fields and whoever interested in automatic dance analysis. 
 
