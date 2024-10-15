@@ -2,7 +2,8 @@
 
 A C++ GUI Implementation of interdisciplinary dance analysis.
 
-This tool is built to benifit users not familiar with code interface, including researchers in multiple fieds and whoever in interested in automatic dance analysis. 
+This tool is built to benifit users not familiar with code interface, including researchers in multiple fields and whoever in interested in automatic dance analysis. 
+
 
 The calculation either uses Python script and C++.
 
@@ -14,6 +15,8 @@ The input should be dance videos or dance motion files in coco format or SMPL fo
 The file output will be hierarchical annotation files that represent how dancers interact with the physical environments.
 
 The GUI interface will display meaningful and interesting visualizations during analysis.
+
+ 
 
 **UPDATE**
 
