@@ -5,7 +5,7 @@ A C++ GUI Implementation of interdisciplinary dance analysis.
 This tool is built to benifit users not familiar with code interface, including researchers in multiple fields and whoever interested in automatic dance analysis. 
 
 
-The calculation either uses Python script and C++. The calculation algorithms is written by me. 
+The calculation either uses Python script and C++. The calculation algorithms are written by me. 
 
 
 This is a tool that automatically annotates dance movements in the dance video with its linguistic features.
