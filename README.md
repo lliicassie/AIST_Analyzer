@@ -21,7 +21,7 @@ The GUI interface will display meaningful and interesting visualizations during 
  
 
 **UPDATE**
-
+progress 1/100
 
 The preliminary framework of the project has been uploaded. Including the interface between C++ and Python, the GUI module, and a bit of python calculation scripts.
 
