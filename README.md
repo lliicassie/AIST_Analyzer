@@ -1,4 +1,4 @@
-# UNDERGROUND_Analyzer
+# UnderGround_Analyzer
 
 A C++ GUI Implementation of interdisciplinary dance analysis.
 
